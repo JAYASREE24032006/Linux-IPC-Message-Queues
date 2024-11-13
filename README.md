@@ -1,19 +1,18 @@
-# EX4 - Linux-IPC-Message-Queues
-
+# EX4 - PROGRAM THAT RECEIVES A MESSAGE FROM MESSAGE QUEUE AND DISPLAY THEM
 ## AIM :
 To write a C program that receives a message from message queue and display them
 
 ## DESIGN STEPS :
 
-### Step 1 :
+### STEP 1 :
 
 Navigate to any Linux environment installed on the system or installed inside a virtual environment like virtual box/vmware or online linux JSLinux (https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192) or docker.
 
-### Step 2 :
+### STEP 2 :
 
 Write the C Program using Linux message queues API 
 
-### Step 3 :
+### STEP 3 :
 
 Execute the C Program for the desired output. 
 
@@ -80,4 +79,4 @@ int main()
 
 
 ## RESULT :
-The programs are executed successfully.
+The C program that receives a message from message queue and display them are executed successfully.
