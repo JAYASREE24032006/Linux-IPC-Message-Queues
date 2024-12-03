@@ -1,4 +1,4 @@
-# EX4 - PROGRAM THAT RECEIVES A MESSAGE FROM MESSAGE QUEUE AND DISPLAY THEM
+1# EX4 - PROGRAM THAT RECEIVES A MESSAGE FROM MESSAGE QUEUE AND DISPLAY THEM
 ## AIM :
 To write a C program that receives a message from message queue and display them
 
