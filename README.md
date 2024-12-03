@@ -79,4 +79,4 @@ int main()
 
 
 ## RESULT :
-The C program that receives a message from message queue and display them are executed successfully.
+The C program that receives a message from message queue and display them are executed successfully
